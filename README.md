@@ -20,11 +20,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 *   **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
-<!-- falta actualizar v -->
 
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML (5 minutos)
 *   **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+*   **Enlace**: [Ver la lección](https://youtu.be/ctkK_JswqYg)
 *   **Consejos clave**: Usa `<html>`, `<head>`, `<title>`, `<body>`, `<h1>`.
 *   **Práctica**: [Clic para programar](https://codepen.io/Kosevy/pen/VYmyOzp?editors=1000) 👈 **¡No necesitas registrarte!**
 
@@ -74,7 +73,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | Lección # | Actividad | Empezar a Programar |
 |-----------|-----------|---------------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/Kosevy/pen/bNBayrj?editors=1000) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/Kosevy/pen/NPbXVvL?editors=1000) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
@@ -87,7 +86,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-<!-- falta modificar team lider v -->
 
 ## 👥 Elaboración
 
@@ -97,7 +95,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **1ASI0730 Aplicaciones Web**
 *   **NRC**: 17953
 *   **Nombre del equipo**: PircaIndustries
-*   **Líder del equipo**: [Nombres y Apellidos del líder]
+*   **Líder del equipo**: Montoya Nina, Paula Fernanda
 *   **Integrantes del equipo**:
   * Francia Torres, Jhony Manuel
   * Montoya Nina, Paula Fernanda
