@@ -54,9 +54,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 *   **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-*   **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+*   **Enlace**: [Ver Lección](https://youtu.be/64qW0Ch1ITk)
 *   **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-*   **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+*   **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/pXw8QQxhnL5f5VFDA)
 *   **¡No es necesario registrarse!**
 *   **¡Guarda y comparte!**
 
