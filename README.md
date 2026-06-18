@@ -78,9 +78,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 4 | Estilo de la página | [CodePen](https://codepen.io/pen/) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
-<!-- falta modificar cuestionario v -->
 
-*   **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+*   **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/HLCj9NMYX55VGnp56)
 *   **Compartir**: #WebDevBeginners
 *   **¡Gracias por completar el curso!**
 
