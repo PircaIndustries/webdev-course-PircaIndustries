@@ -38,9 +38,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS (12 minutos)
 *   **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-*   **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-*   **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-*   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+*   **Enlace**: [Ver la lección](https://youtu.be/UmWfieYY4pg)
+*   **Consejos clave**: Vincula CSS con <link>, usa selectores de etiqueta, clase (.) e ID (#), cambia fondos con background-color, fuentes con font-family, tamaños con font-size, bordes con border, sombras con text-shadow y box-shadow, y domina el modelo de caja con padding, border y margin.
+*   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 
 <!-- falta actualizar v -->
 
@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/Kosevy/pen/NPbXVvL?editors=1000) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/pen/) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
 <!-- falta modificar cuestionario v -->
