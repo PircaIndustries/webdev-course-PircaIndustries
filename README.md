@@ -62,9 +62,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## 📚 Recursos Adicionales
 
-<!-- falta modificar Código fuente completo v -->
 
-*   **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+*   **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/PircaIndustries/webdev-course-PircaIndustries)
 
 <!-- falta modificar actividades prácticas v -->
 
