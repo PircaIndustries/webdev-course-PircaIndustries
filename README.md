@@ -12,8 +12,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## 🚀 Secuencia de la lección
 
-<!-- falta actualizar v -->
-
 ### Lección 1: ¿Qué es el desarrollo web? (3 minutos)
 *   **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 *   **Enlace**: [Ver la lección](https://youtu.be/6qb3GHE7JFg)
@@ -26,8 +24,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Enlace**: [Ver la lección](https://youtu.be/ctkK_JswqYg)
 *   **Consejos clave**: Usa `<html>`, `<head>`, `<title>`, `<body>`, `<h1>`.
 *   **Práctica**: [Clic para programar](https://codepen.io/Kosevy/pen/VYmyOzp?editors=1000) 👈 **¡No necesitas registrarte!**
-
-<!-- falta actualizar v -->
 
 ### Lección 3: Añadir más elementos HTML (5 minutos)
 *   **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
@@ -42,15 +38,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Consejos clave**: Vincula CSS con <link>, usa selectores de etiqueta, clase (.) e ID (#), cambia fondos con background-color, fuentes con font-family, tamaños con font-size, bordes con border, sombras con text-shadow y box-shadow, y domina el modelo de caja con padding, border y margin.
 *   **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
 
-<!-- falta actualizar v -->
-
 ### Lección 5: Crear una página web sencilla (16 minutos)
 *   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 *   **Enlace**: [Ver la lección](https://youtu.be/wninGowl9DA)
 *   **Consejos clave**: Aplicar estilos y depurar errores.
 *   **Proyecto Final**: [Crea tu Perfil](https://vscode.dev/) 👈 **¡Guarda y comparte!**
-
-<!-- falta actualizar v -->
 
 ### Lección 6: Consejos y Próximos Pasos (6 minutos)
 *   **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -64,8 +56,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 
 *   **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/PircaIndustries/webdev-course-PircaIndustries)
-
-<!-- falta modificar actividades prácticas v -->
 
 *   **Todas las Actividades Prácticas**:
 
