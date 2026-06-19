@@ -48,7 +48,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 *   **Enlace**: [Ver la lección](https://youtu.be/wninGowl9DA)
 *   **Consejos clave**: Aplicar estilos y depurar errores.
-*   **Proyecto Final**: [Crea tu Perfil](https://youtu.be/wninGowl9DA) 👈 **¡Guarda y comparte!**
+*   **Proyecto Final**: [Crea tu Perfil](https://vscode.dev/) 👈 **¡Guarda y comparte!**
 
 <!-- falta actualizar v -->
 
