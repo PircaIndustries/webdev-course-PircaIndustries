@@ -4,7 +4,7 @@
 
 Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas!** Solo abre tu navegador web.
 
-*   **Duración total**: ~60 minutos
+*   **Duración total**: ~55 minutos
 *   **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 *   **Prerrequisitos**: Ninguno
 *   **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2 | Primera página HTML | [CodePen](https://codepen.io/Kosevy/pen/NPbXVvL?editors=1000) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/pen/) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+| 5 | Página de perfil | [VsCode](https://vscode.dev/) |
 
 
 *   **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/HLCj9NMYX55VGnp56)
