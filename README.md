@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 <!-- falta actualizar v -->
 
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (3 minutos)
 *   **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 *   **Enlace**: [Ver la lección](https://youtu.be/6qb3GHE7JFg)
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
@@ -29,14 +29,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 <!-- falta actualizar v -->
 
-### Lección 3: Añadir más elementos HTML (8 minutos)
+### Lección 3: Añadir más elementos HTML (5 minutos)
 *   **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 *   **Enlace**: [Ver la lección](https://youtu.be/Xbce_rvN938?si=An4lssM1ny1GnE6k)
 *   **Consejos clave**: Usa las etiquetas `<ul>`, `<li>`, `<img>`, `<a>`.
 *   **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
 <!-- falta actualizar v -->
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (17 minutos)
 *   **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 *   **Enlace**: [Ver la lección](https://youtu.be/RwDT8749U5Q)
 *   **Consejos clave**: Vincula CSS con <link>, usa selectores de etiqueta, clase (.) e ID (#), cambia fondos con background-color, fuentes con font-family, tamaños con font-size, bordes con border, sombras con text-shadow y box-shadow, y domina el modelo de caja con padding, border y margin.
@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 <!-- falta actualizar v -->
 
-### Lección 5: Crear una página web sencilla (15 minutos)
+### Lección 5: Crear una página web sencilla (16 minutos)
 *   **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 *   **Enlace**: [Ver la lección](https://youtu.be/wninGowl9DA)
 *   **Consejos clave**: Aplicar estilos y depurar errores.
@@ -52,7 +52,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 <!-- falta actualizar v -->
 
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+### Lección 6: Consejos y Próximos Pasos (6 minutos)
 *   **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 *   **Enlace**: [Ver Lección](https://youtu.be/64qW0Ch1ITk)
 *   **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
